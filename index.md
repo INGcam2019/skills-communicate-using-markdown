@@ -6,3 +6,6 @@ imagen
 python es fantástico
 y facil de aprender
 ```
+- [x] Listas
+- [x] ciclos
+- [ ] POO
